@@ -1,15 +1,10 @@
-# Housify
-![Housify](https://github.com/emmaudeji/Webstack-Portfolio-Project/blob/main/welcome.png)
+# Homestel
 
-`Group project` `Web Portfolio project`
-
-> Housify is a Property management web app that helps people to rent or buy property at any part of the World. We are using Rapid API to list the available houses, With Agents to facilitate the process. 
+> Homestel is an online reservation web app that helps students to reserve and make payments for houses and hostels available for student lodging within and around tertiary schools. This webapp list the available houses or hostels with the needed information for a smooth and stress free reservation.
 
 
-### Task - Full Stack webstack portfolio project(Housify)
+### Task - Web portfolio project
 
-### alx_africa
-The ALX Holberton Software Engineering programme is a 12-month(70h/week) immersive programme that engages technology enthusiasts and budding software engineers in a variety of programmes across in-demand tech disciplines to prepare them for a global career as a Full-Stack Developer.
 
 ## Starting the project
 
@@ -30,11 +25,4 @@ The ALX Holberton Software Engineering programme is a 12-month(70h/week) immersi
 `React` `Tailwind CSS` `Express JS` `Mongo DB`
 
 AUTHORS
-
-* Mildred Makori **[Github](https://github.com/kwamboka1)** , **[twitter](https://twitter.com/makori_mildred)**, **[Linkedin](https://www.linkedin.com/in/mildred-makori-892652120/)**
-* Emma Udeji **[Github](https://github.com/emmaudeji)** , **[twitter](https://twitter.com/)**, **[Linkedin](https://linkedin.com/in/emmanuel-udeji)**
-* Zelipha Wambui **[Github](https://github.com/Zelipha)**, **[twitter](https://twitter.com/Miss_zeliq)**, **[Linkedin](https://www.linkedin.com/in/zelipha-wambui)**
-* Robert Mudzonga **[Github](https://github.com/RobertMudzonga)**, **[twitter]()**, **[Linkedin](linkedin.com/in/robert-mudzonga-06b1ba21a)**
-
-
-> Show love by leaving a ⭐️ if you like this project and don't forget to fork, break and modify 
+ 
